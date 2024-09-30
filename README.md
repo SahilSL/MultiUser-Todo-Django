@@ -7,4 +7,3 @@ It allows users to create, manage, and track their tasks in a collaborative envi
 - Mark tasks as completed
 - Filter tasks based on status, priority, etc.
 
-- 
